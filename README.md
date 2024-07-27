@@ -7,7 +7,7 @@ The MyToken contract is designed to handle basic token functionality with public
 ## Getting Started
 I used the Remix-Ethereum IDE so all you need to do is clone my repository
 
-##Interacting with the Contract
+## Interacting with the Contract
 Use the "Deploy & Run Transactions" section in Remix to interact with the contract
 
 ### Modifications
